@@ -8,4 +8,16 @@ The purpose of this project is to create an efficent daily planner for an employ
 - "save" button saves the text for that event in local storage.
 -  when page is refresehed, the saved events remain.
 
+## Deployed application url: 
+https://anjinismail.github.io/work-day/
+
+
+
+## Screenshots 
+<img src="https://github.com/AnjinIsmail/work-day/blob/master/screenshots/img-1.png?raw=true">
+<img src="https://github.com/AnjinIsmail/work-day/blob/master/screenshots/img-2.png?raw=true">
+<img src="https://github.com/AnjinIsmail/work-day/blob/master/screenshots/img-3.png?raw=true">
+
+
+
 
